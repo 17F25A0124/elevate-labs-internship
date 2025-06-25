@@ -67,8 +67,8 @@ To practice and apply:
 -- Deleting a specific record
    DELETE FROM employee
    WHERE id = 11;
-
-## conclusion
+```
+##  conclusion
 
 This task helped reinforce key DML operations such as inserting, updating, and deleting data while handling NULL values correctly.
 It provided hands-on experience with safe data manipulation practices, including the importance of WHERE clauses to prevent unintentional data loss.
